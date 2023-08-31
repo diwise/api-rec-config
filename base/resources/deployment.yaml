@@ -52,4 +52,4 @@ spec:
       volumes:
         - name: conf-volume
           configMap:
-            name: core-cfg-cm
+            name: rec-cfg-cm
